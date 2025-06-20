@@ -4,7 +4,7 @@ A responsive and dynamic React-based web application that fetches and displays t
 
 ## 🌐 Live Preview
 
-👉 [Click here to view live](#)
+👉 [Click here to view live](https://topcourse-one.vercel.app/)
 
 
 ## 🚀 Features
@@ -90,11 +90,11 @@ TOP_COURSES_PROJECT/
 
 ## 📂 GitHub Repository
 
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](https://github.com/sourav4152/React_Basic_projects/edit/main/Top_Course)
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source.
 
 ---
 
