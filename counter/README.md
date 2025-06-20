@@ -6,7 +6,7 @@ A simple and stylish React counter application with increment, decrement, and re
 
 ## 🚀 Live Demo
 
-👉🏻 [Live view](#)
+👉🏻 [Live view](https://counter-kappa-jet-68.vercel.app/)
 
 ---
 
