@@ -16,7 +16,7 @@ A clean and responsive **Testimonial Carousel** built using **React**, styled wi
 
 ## 🚀 Live Demo
 
-[Coming Soon]
+🌈 [Live preview](https://testimonial-khaki.vercel.app/)
 
 ---
 
